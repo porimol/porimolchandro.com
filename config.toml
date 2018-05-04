@@ -1,4 +1,4 @@
-baseurl                 = "https://www.porimolchandro.com/"
+baseurl                 = "http://www.porimolchandro.com/"
 languageCode            = "en-us"
 title                   = "Porimol Chandro"
 theme                   = "hugo-phlat-theme"
@@ -23,9 +23,14 @@ theme                   = "hugo-phlat-theme"
     url                 = "/resume/"
 
 [[menu.header]]
-    name                = "Projetcs"
+    name                = "Projects"
     weight              = 3
     url                 = "/projects/"
+
+[[menu.header]]
+    name                = "Source Code"
+    weight              = 3
+    url                 = "https://github.com/porimol/"
 
 [[menu.header]]
     name                = "About Me"
