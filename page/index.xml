@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Porimol Chandro</title>
-    <link>https://www.porimolchandro.com/page/</link>
+    <link>http://www.porimolchandro.com/page/</link>
     <description>Recent content in Pages on Porimol Chandro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Mar 2016 18:21:33 -0700</lastBuildDate>
-    <atom:link href="https://www.porimolchandro.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.porimolchandro.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://www.porimolchandro.com/privacy-policy/</link>
+      <link>http://www.porimolchandro.com/privacy-policy/</link>
       <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
       
-      <guid>https://www.porimolchandro.com/privacy-policy/</guid>
+      <guid>http://www.porimolchandro.com/privacy-policy/</guid>
       <description>&lt;p&gt;Privacy policy here.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://www.porimolchandro.com/about/</link>
+      <link>http://www.porimolchandro.com/about/</link>
       <pubDate>Tue, 15 Mar 2016 18:18:41 -0700</pubDate>
       
-      <guid>https://www.porimolchandro.com/about/</guid>
+      <guid>http://www.porimolchandro.com/about/</guid>
       <description>&lt;p&gt;About this website&lt;/p&gt;
 </description>
     </item>
